@@ -12,7 +12,7 @@ Coding Exercise: 1. A Caesar Cipher (or Cipher Wheel) encrypts a message by shif
 
 Write a program in python that would, covert a string into Caesar cipher. 
 
-@author: SjGanguly (trying_ai)
+Solution: @author: SjGanguly (trying_ai)
 """
 
 #################### ENCRYPTION ####################################
